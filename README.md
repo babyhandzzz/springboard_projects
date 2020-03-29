@@ -14,4 +14,4 @@ https://www.kaggle.com/wendykan/lending-club-loan-data
 
 Dmitri Kochubei
 
-https://www.linkedin.com/
+https://www.linkedin.com/in/dmitri-kochubei-0362a017b/
