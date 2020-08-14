@@ -1,6 +1,6 @@
 # Springboard Data Science Track
 
-This directory contains IPython notebooks of multiple mini-projects as well as two capstone projects. The solutions were developed over the course of attending Springboard's Data Science Track course.
+This directory contains IPython notebooks with multiple mini-projects as well as two capstone projects. The solutions were developed over the course of attending Springboard's Data Science Track course.
 
 https://www.springboard.com/workshops/data-science-career-track/
 
